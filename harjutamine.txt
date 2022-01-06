@@ -1,3 +1,10 @@
+Mis on Github? Kes seda kasutavad?
+
+GitHub on faili või koodi jagamis teenus mis on mõeldud tarkvaraarendajatele ühise koostöö lihtsustamiseks.
+GitHub on kasulik kui mitu inimest soovivad samaaegselt töötada ühise projekti kallal.
+Näiteks veebilehte tehes saavad kõik korraga koodi kallal töödata.
+
+
 Kuidas ja kus saan Mina edaspidi kasutada GitHubi?
 
 Teiste raske töö jultunult ärakasutamiseks seda allalaadides ja omakasuks kasutades.
